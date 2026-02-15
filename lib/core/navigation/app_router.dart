@@ -1,8 +1,9 @@
+import 'package:finance_treker/core/features/dashboard/add_transaction/presentation/pages/add_transaction_page.dart';
+import 'package:finance_treker/core/features/dashboard/add_transaction/presentation/pages/statistics_page.dart';
+import 'package:finance_treker/core/features/dashboard/presentation/pages/dashboard_page.dart';
+import 'package:finance_treker/core/features/dashboard/settings/presentation/pages/settings_page.dart';
 import 'package:go_router/go_router.dart';
-import '../../features/dashboard/presentation/pages/dashboard_page.dart';
-import '../../features/add_transaction/presentation/pages/add_transaction_page.dart';
-import '../../features/statistics/presentation/pages/statistics_page.dart';
-import '../../features/settings/presentation/pages/settings_page.dart';
+
 import 'main_scaffold.dart';
 
 class AppRouter {
@@ -49,7 +50,7 @@ class AppRouter {
       ),
     ],
 
-    /// 🌐 Web URL Strategy (optional but recommended)
+    
     debugLogDiagnostics: true,
   );
 }
