@@ -88,6 +88,12 @@ flutter pub get
 flutter run
 ```
 
+## 📸 Screenshots
+
+![Dashboard](dash.jpg)  
+![Statistics Chart](graph.jpg)  
+![Add Transaction](transaction.jpg)  
+![App Version / Settings](version.jpg)
 ---
 
 ## 🎯 Project Goals
