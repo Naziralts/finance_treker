@@ -89,11 +89,12 @@ flutter run
 ```
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-![Dashboard](dash.jpg)  
-![Statistics Chart](graph.jpg)  
-![Add Transaction](transaction.jpg)  
-![App Version / Settings](version.jpg)
+![Dashboard](assets/screenshots/dash.jpg)  
+![Statistics Chart](assets/screenshots/graph.jpg)  
+![Add Transaction](assets/screenshots/transaction.jpg)  
+![App Version / Settings](assets/screenshots/version.jpg)
 ---
 
 ## 🎯 Project Goals
