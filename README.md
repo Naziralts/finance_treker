@@ -9,13 +9,10 @@ This app helps users manage their daily income and expenses, analyze financial d
 
 * 💰 Add, edit, and delete transactions (Income & Expense)
 * 📊 Interactive financial charts and analytics
-* 📅 Track transactions by date
 * 💳 Total balance, income, and expense overview
 * 🌙 Dark & Light mode support
-* 🔐 Biometric authentication (Fingerprint / Face ID)
 * 💾 Offline-first app with local database (SQLite)
-* ⚡ Smooth UI with animations
-* 🌍 Localization support
+
 
 ---
 
